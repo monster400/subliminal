@@ -1,6 +1,6 @@
 FROM python:3
 
-MAINTAINER Antoine Bertin <diaoulael@gmail.com>
+MAINTAINER Andreas Scholdan <andreas@scholdan.net>
 
 RUN mkdir -p /usr/src/app /usr/src/cache
 WORKDIR /usr/src/app
